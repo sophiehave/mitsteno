@@ -1,0 +1,23 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+h2{
+  font-size: 28px;
+}
+p{
+  font-size: 16px;
+}
+
+.linkklik{
+  color: black;
+  text-decoration: none;
+}
+.linkklik:hover{
+  color: #b40032;
+}

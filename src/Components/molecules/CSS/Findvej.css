@@ -1,0 +1,41 @@
+.findvej h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.findvejbeskrivelse{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+.findvejindhold{
+    width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.findvejindhold div{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.findvejindhold li{
+    list-style-position: outside;
+}
+
+.findvej img{
+    width: 600px;
+}
+.findvej a{
+    text-decoration: none;
+    color: black;
+}
+.findvej a:hover{
+    color: #b40032;
+}
+.findvej iframe{
+    width: 600px;
+    height:450px;
+    border:0;
+}

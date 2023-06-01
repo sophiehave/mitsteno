@@ -1,0 +1,63 @@
+
+.historik h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.historik p{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+.tidligerebesog{
+    background-color: #f5f5f5;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.tidligerebesog button{
+    width: 60%;
+    height: 35px;
+    margin: 20px 11px;
+    background-color: #f5f5f5;
+    font-size: 16px;
+    border-width: 1px;
+}
+.tidligerebesog button:hover{
+    color: #b40032;
+    border: 1px solid #b40032;
+    cursor: pointer;
+}
+
+.boksmedbesog h2{
+    text-align: left;
+    font-size: 70px;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.boksmedbesog{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    line-height: 15px;
+    display: flex;
+}
+.boksmedbesog div{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.besogdato{
+    font-size: 20px;
+}
+.besogbehandler{
+    font-size: 16px;
+}
+
+.besogsnotatknap{
+    text-align: center;
+}

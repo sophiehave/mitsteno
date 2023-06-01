@@ -1,0 +1,48 @@
+.sporgeskema h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.sporgeskema p{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+.sporgeskemaindhold{
+    margin: auto;
+    width: 500px;
+    /* background-color: yellow; */
+    margin-top: 20px;
+    text-align: left;
+    font-size: 24px;
+}
+
+.ditspørgeskema{
+    /* border: black 1px solid; */
+    background-color: #f5f5f5;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    margin: auto;
+}
+.ditspørgeskema span{
+    font-size: 50px;
+}
+.ditspørgeskema a{
+    text-decoration: none;
+    color: black;
+    margin-top: -15px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+ }
+ .ditspørgeskema a:hover{
+    color: #b40032;
+ }
+ .Ingensporgeskema{
+    padding-top: 50px;
+    margin: auto;
+ }

@@ -1,0 +1,38 @@
+.upload h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.uploadinformation{
+    width: 480px;
+    margin: auto;
+}
+
+.uploadlink{
+    margin: auto;
+    width:480px;
+    margin-top: 40px;
+    font-size: 18px;
+    text-align: left;
+}
+.uploadboks{
+    background-color: #f5f5f5;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+}
+
+.uploadikon{
+    align-self: center;
+    font-size: 40px;
+    margin-right: 30px;
+    margin-left: 15px;
+}
+
+.uploadlink a{
+    color: #b43200;
+}
+.uploadtekst{
+    width: 300px;
+}

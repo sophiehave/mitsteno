@@ -1,0 +1,56 @@
+
+.recept h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.receptinfo{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.dinerecepter{
+    width: 500px;
+    background-color: #f5f5f5;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.ikonoginfo{
+    display: flex;
+
+}
+.dinerecepter p{
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 20px;
+
+}
+
+.receptindhold{
+    width: 350px;
+}
+.medicin{
+    font-size: 24px;
+}
+.styrke{
+    font-size: 18px;
+}
+.udlevering{
+    font-size: 60px;
+    color: #b40032;
+}
+.tilbage{
+    padding-top: 35px;
+    padding-left: 30px;
+    /* margin-left: 120px; */
+    text-align: center;
+    border-left: darkgrey 1px solid;
+}
+.gyldig{
+    font-size: 16px;
+}

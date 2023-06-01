@@ -1,0 +1,48 @@
+.overblik{
+    margin-top: 50px;
+}
+
+
+.overblik h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.overblik p{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+.kategorier{
+    display: flex;
+    margin-top: 60px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.kategorier div{
+    margin: auto;
+    width: 300px;
+    margin-right: 00px;
+    height: 350px;
+}
+.kategorier h3{
+    justify-content: center;
+}
+.kategorier p{
+    justify-content: start;
+    text-align: left;
+    width: 200px;
+    margin: 0;
+    padding: 20px 0;
+}
+
+.borderRed{
+    border-right: #B40032 solid 2px;
+}
+.borderGrey{
+    border-bottom: #d3d3d3 solid 1px;
+}

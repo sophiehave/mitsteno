@@ -1,0 +1,52 @@
+.skrivbeskedintro h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+.skrivbeskedintro p{
+        width: 480px;
+        margin: auto;
+        text-align: center;
+}
+.skrivbeskedintro{
+    padding-bottom: 40px;
+}
+.skrivbeskeddata{
+    width: 500px;
+    margin: auto;
+}
+.skrivbeskeddata select{
+    border: 1px solid #bfbfbf;
+    font-size: 14px;
+    width: 500px;
+}
+.skrivbeskeddata select:hover{
+    border-color: #b43200;
+}
+.titel{
+    width: 496px;
+    border: 1px solid #bfbfbf;
+}
+.titel:hover{
+    border: 1px solid #b43200;
+}
+.skrivbeskeddata textarea{
+    width: 496px;
+    border: 1px solid #bfbfbf;
+}
+
+.skrivbeskeddata textarea:hover{
+    border-color: #b43200;
+}
+
+.send{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid #bfbfbf;
+}
+.send:hover{
+    border-color: #b43200;
+    color:#b43200;
+    cursor: pointer;
+}

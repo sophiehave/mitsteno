@@ -1,0 +1,48 @@
+.kontaktinformation h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+.kontaktinformation p{
+        width: 480px;
+        margin: auto;
+        text-align: center;
+}
+
+.kontaktmetoder{
+    margin: auto;
+    width: 480px;
+    margin-top: 20px;
+}
+.ring{
+    display: flex;
+    background-color: #f5f5f5;
+}
+.ring p{
+    align-self: center;
+}
+.skriv{
+    display: flex;
+    margin-top: 20px;
+    background-color: #f5f5f5;
+}
+.skriv p{
+    align-self: center;
+}
+.skrivlink{
+    text-decoration: none;
+    color: black;
+}
+.skrivlink:hover{
+    color: #b40032;
+}
+.skrivlink span{
+    text-decoration: underline;
+
+}
+.kontaktikon{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-self: center;
+}

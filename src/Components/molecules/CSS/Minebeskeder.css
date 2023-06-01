@@ -1,0 +1,52 @@
+
+.minebeskeder h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.minebeskederinfo{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.accordionbeskeder{
+    background-color: #f5f5f5;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    align-items: left;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.beskedindholdoverskrift{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: -5px;
+}
+.beskedindholdoverskrift h3{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.beskedindholdoverskrift h4{
+    font-size: 16px;
+    font-weight: lighter;
+    margin-top: -15px;
+}
+.beskedindholdoverskrift h5{
+    font-weight: lighter;
+    margin-top: -15px;
+}
+
+.beskedindholdindhold{
+    text-align: left;
+    margin: 26px;
+    font-size: 14px;
+}
+
+.beskedindhold{
+    border-top: white solid 20px;
+    margin-top: 20px;
+}

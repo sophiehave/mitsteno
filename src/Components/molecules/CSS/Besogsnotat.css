@@ -1,0 +1,46 @@
+.tilbagetilhistorik{
+    display: flex;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+.tilbagetilhistorik p{
+    margin-top: 3px;
+    font-size:  16px;
+}
+.tilbagetilhistorik:hover{
+    cursor: pointer;
+}
+
+.besogindhold{
+    margin: 20px 0 0 20%;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+}
+.besogindhold h3{
+    color: blue;
+    font-weight: lighter;
+    font-size: 22px;
+}
+.besogindhold table{
+    width: 350px;
+    text-align: left;
+}
+
+.blaabaggrund{
+    display: flex;
+
+}
+    
+span p{
+    display: flex;
+    background-color: #add5ff;
+    color: blue;
+    margin-right: auto;
+    padding: 0;
+}
+.tableheader{
+    background-color: #d3d3d3;
+}

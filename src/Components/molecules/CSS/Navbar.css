@@ -1,0 +1,41 @@
+.navbar{
+    margin-top: 20px;
+    background-color: #f5f5f5;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar h3{
+    margin-right: auto;
+    font-weight: lighter;
+    font-size: 16px;
+}
+.navbar h3 span{
+    color: #B40032;
+    font-size: 20px;
+}
+.beskeder{
+    margin-left: 130px;
+    color: black;
+    text-decoration: none;
+  
+}
+.navbarsider{
+    color: black;
+    text-decoration: none;
+}
+
+.id_info{
+    line-height: 0px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.id_info h3{
+    font-weight: bold;
+}
+.id_info h4{
+    font-weight: lighter;
+    font-size: 14px;
+    margin-top: 5px;
+}

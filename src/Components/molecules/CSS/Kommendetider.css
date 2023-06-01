@@ -1,0 +1,58 @@
+.kommendetider h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.kommendetider p{
+    width: 480px;
+    margin: auto;
+}
+
+.kommendetidspunkt{
+    background-color: #f5f5f5;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.kommendetidspunkt h2{
+    font-size: 100px;
+    margin: 40px 40px;
+}
+.kommendetidspunkt .dato{
+    font-size: 32px;
+    padding-top: 20px;
+}
+.kommendetidspunkt .besog{
+    font-size: 20px;
+}
+.kommendetidspunkt .behandler{
+    font-size: 18px;
+}
+.kommendetidspunkt .sted{
+    font-size: 16px;
+}
+
+.kommendetidknap{
+    text-align: center;
+}
+.kommendetidknap button{
+    width: 180px;
+    height: 35px;
+    margin: 20px 11px;
+    background-color: #f5f5f5;
+    font-size: 16px;
+    border-width: 1px;
+}
+.kommendetidknap button:hover{
+    cursor: pointer;
+    color: #b40032;
+    border: #b40032 1px solid;
+}
+
+.Ingenkommendetid{
+    padding-top: 50px;
+    margin: auto;
+    font-size: 20px;
+}

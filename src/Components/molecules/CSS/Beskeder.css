@@ -1,0 +1,31 @@
+
+.overblikbeskeder h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;}
+
+.overblikbeskeder p{
+    width: 480px;
+    margin: auto;
+}
+
+.valgbesked{
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
+.valgbesked h3{
+    width: 340px;
+}
+.valgbesked div{
+    display: flex;
+    padding: 30px 0;
+}
+.valgbesked p{
+    color: #b40032;
+    width: 20px;
+    font-size: 30px;
+}
+.valgbesked .skrivikkeakut{
+    border-bottom: solid 1px #d3d3d3;
+}

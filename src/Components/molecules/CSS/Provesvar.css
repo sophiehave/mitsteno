@@ -1,0 +1,71 @@
+/* https://szhsin.github.io/react-accordion/docs/styling */
+
+.provesvar h2{
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.provesvar p{
+    width: 480px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.accordion{
+    background-color: #f5f5f5;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    align-items: left;
+    padding-bottom: 10px;
+}
+.szh-accordion__item-btn{
+    background-color: #f5f5f5;
+    border: none;
+    width: 500px;
+    height: 80px;
+}
+.szh-accordion__item-btn:hover{
+    cursor: pointer;
+}
+
+.proveboks{
+    display: flex;
+}
+
+.proveindhold{
+    border-top: white solid 20px;
+    margin-top: 20px;
+    line-height: 10px;
+}
+.proveindhold h3{
+    font-weight: lighter;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 22px;
+    line-height: 20px;
+}
+.proveikon{
+    font-size: 60px;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.provedato{
+    font-weight: lighter;
+    text-align: left;
+    font-size: 12px;
+    margin-top: -15px;
+}
+.proveindhold p{
+    text-align: left;
+    font-size: 12px;
+    line-height: 6px;
+    margin-left: 96px;
+}
+
+.provevaerdi{
+    font-weight: bold;
+}

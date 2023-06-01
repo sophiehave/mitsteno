@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.866f169c.css",
+    "main.js": "/static/js/main.e7d6e030.js",
+    "static/js/787.05dd27e1.chunk.js": "/static/js/787.05dd27e1.chunk.js",
+    "static/media/oversigtskort.png": "/static/media/oversigtskort.bc9a9af94455f3673aed.png",
+    "index.html": "/index.html",
+    "main.866f169c.css.map": "/static/css/main.866f169c.css.map",
+    "main.e7d6e030.js.map": "/static/js/main.e7d6e030.js.map",
+    "787.05dd27e1.chunk.js.map": "/static/js/787.05dd27e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866f169c.css",
+    "static/js/main.e7d6e030.js"
+  ]
+}
